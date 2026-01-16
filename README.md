@@ -10,6 +10,7 @@ This dashboard helps analyze overall business health by tracking key metrics suc
  ✔️ Average Delivery Time: 4 days
 
 🔹 Dashboard Insights:
+
 Sales by Category: Office Supplies lead, followed by Technology and Furniture
 Sales by Sub-Category: Phones and Chairs are top contributors
 Region-wise Sales: West region performs best, followed by East and Central
@@ -20,6 +21,7 @@ Sales by Ship Mode: Standard Class is the most used delivery option
 State-wise Sales & Profit: Geographic visualization to identify high-performing states
 
 🎯 Business Impact:
+
 📈 Helps identify top-performing regions, categories, and customer segments
  📊 Supports data-driven sales and marketing strategies
  🚚 Provides insights into delivery efficiency and shipping preferences
